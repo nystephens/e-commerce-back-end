@@ -1,3 +1,5 @@
+// Express router that links the requests with their associated endpoints
+
 const router = require('express').Router();
 const categoryRoutes = require('./category-routes');
 const productRoutes = require('./product-routes');

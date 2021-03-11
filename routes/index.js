@@ -1,3 +1,5 @@
+// Main API route that links all API endpoints with the /api endpoint
+
 const router = require('express').Router();
 const apiRoutes = require('./api');
 

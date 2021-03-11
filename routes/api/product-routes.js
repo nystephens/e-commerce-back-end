@@ -1,3 +1,5 @@
+// Routes to get Product json from the DB
+
 const router = require('express').Router();
 const { Product, Category, Tag, ProductTag } = require('../../models');
 

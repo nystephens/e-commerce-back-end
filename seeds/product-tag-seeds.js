@@ -1,3 +1,5 @@
+// Product tag test data 
+
 const { ProductTag } = require('../models');
 
 const productTagData = [

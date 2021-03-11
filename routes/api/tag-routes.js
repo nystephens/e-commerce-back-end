@@ -1,3 +1,5 @@
+// Routes to get Tag json from the DB
+
 const router = require('express').Router();
 const { Tag, Product, ProductTag } = require('../../models');
 

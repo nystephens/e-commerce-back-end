@@ -1,3 +1,5 @@
+// Product Test Data
+
 const { Product } = require('../models');
 
 const productData = [

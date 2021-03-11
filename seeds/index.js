@@ -1,3 +1,5 @@
+// connects all seed functions within a seedAll() function
+
 const seedCategories = require('./category-seeds');
 const seedProducts = require('./product-seeds');
 const seedTags = require('./tag-seeds');

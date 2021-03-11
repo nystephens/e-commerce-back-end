@@ -1,3 +1,5 @@
+// Product tag model constructor
+
 const { Model, DataTypes } = require('sequelize');
 
 const sequelize = require('../config/connection');
