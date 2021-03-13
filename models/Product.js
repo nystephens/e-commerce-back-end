@@ -18,11 +18,11 @@ Product.init(
       autoIncrement: true
     },
     product_name: {
-      type: DataTypes.INTEGER,
+      type: DataTypes.STRING,
       allowNull: false
     },
     price: {
-      tpye: DataTypes.DECIMAL,
+      type: DataTypes.DECIMAL,
       allowNull: false,
       validate:{
         isDecimal: true
