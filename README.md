@@ -50,6 +50,8 @@ After your database is seeded with information you are able to do your CRUD oper
 
 For info on how to run these operations see [Using Insomnia](https://apis.support.brightcove.com/general/use-insomnia-api-requests.html).  When you run these different requests you should see the expected values for each request as defined by the models.
 
+To see this application in action please watch my [Walkthrough Video]().
+
 ## License
 ![MIT license](https://img.shields.io/badge/license-MIT-brightgreen)
 [MIT license](https://opensource.org/licenses/MIT)

@@ -1,5 +1,4 @@
 // This file configures the sequelize connection to our SQL database and routes it using the local or JAWSDB process envirinment.
-
 require('dotenv').config();
 
 const Sequelize = require('sequelize');
